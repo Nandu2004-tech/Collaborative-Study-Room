@@ -1,0 +1,8 @@
+{
+  "name": "Collaborative Study Room",
+  "description": "An all-in-one platform for online study groups. Features a real-time chat, shared whiteboard, dynamic quiz and flashcard generation, session scheduling, and pomodoro timers to enhance collaborative learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
